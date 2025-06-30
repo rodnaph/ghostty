@@ -6,3 +6,5 @@ shell-integration-features = no-cursor
 
 cursor-style = block
 cursor-style-blink = false
+
+clipboard-paste-protection = false
